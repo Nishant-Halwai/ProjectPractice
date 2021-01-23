@@ -1,0 +1,6 @@
+mytext file
+json
+json1
+json2
+Kite
+hen
